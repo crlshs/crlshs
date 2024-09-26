@@ -16,7 +16,7 @@ const carlos = {
     tools: ["Git/GitHub", "VsCode", "SQL/MySQL", "CMD/Powershell", "Linux/Windows"],
     mainInterests: {
         competitiveProgramming: 1,
-        backEndDev: 2
+        backEndDev: 2,
         aiDev: 3,
         dataBases: 4
     },
