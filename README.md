@@ -1,27 +1,24 @@
-<h2>Hi, I'm Carlos H. Silveira! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2phNnF4MDdqa3F5Nnpnb3g4bHlkdXd3YjAwbHBhNmk5eGNrbTY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.webp" width="40"><h2>
-<img align='right' src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif" width="230">
+# Welcome
 
-<p><em>High School student at <a href="https://ifpr.edu.br/uniao-da-vitoria/">IFPR - União da Vitória</a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRtOWpjY2Fvc2F6cGk5eW9rem94NXFyN3I4ZXc0dmdwdXA1NDdhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kwMYCO91dwsrI3pWN9/giphy.webp" width="30">
-</br> Olympic programming enthusiast <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ2M3phN3dxdTBkbHo0aHNyem1ncWtjZDkxdXZkMTlzZXF5aHFjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/27wc7vMWPvvJC/giphy.webp" width="25">
-</em></p>
+[![C](https://img.shields.io/badge/C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C.svg)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg)](https://www.python.org/)
 
-[![GitHub Carlos](https://img.shields.io/github/followers/crlshs?label=follow-me!&style=social)](https://github.com/crlshs)
+[![UTFPR](https://img.shields.io/badge/UTFPR-yellow.svg)](https://www.utfpr.edu.br/)
+[![Lattes](https://img.shields.io/badge/Lattes_Profile-blueviolet)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1572162T4)
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdmaWRvYWU3bmM0M2dqeDJod2NlZDN6ZDJzcGJrc3oyb2J3bDh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLS73NJaJdDqM/200.webp" width="40"> A little more about me...
+---
 
-```javascript
-const carlos = {
-    pronouns: "He" | "Him",
-    languages: [Python, Cpp, Java, Javascript, Html, Css],
-    tools: ["Git/GitHub", "VsCode", "SQL/MySQL", "CMD/Powershell", "Linux/Windows"],
-    mainInterests: {
-        competitiveProgramming: 1,
-        backEndDev: 2,
-        aiDev: 3,
-        dataBases: 4
-    },
-    currentSituation: "studying and discovering a lot about programming!"
-}
-```
+I am a researcher and undergraduate student in Computer Science at the **Federal University of Technology – Paraná (UTFPR)**.  
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZwN3dpZ290M3V3Yzh5cTFnanFkNjY3c3E4OHF1M3djbWFyeWZhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5PbkfMTfBM2x2aKKcC/giphy.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi<b>, I'll be happy to meet you more!</b> :)</em>
+My academic interests lie primarily in **graph theory**, **algorithms**, and **computational complexity**, as well as in the broader domains of **theoretical computer science** and **mathematics**.  
+
+In addition to my research activities, I am deeply engaged in **competitive programming**, which I consider an effective and stimulating way to develop algorithmic thinking and problem-solving skills.  
+
+Most of my work and projects involve **C**, **C++**, and **Python**, languages that I frequently use for both academic and experimental purposes. My current focus is on the intersection between theoretical aspects of computation and their practical algorithmic implementations.  
+
+Further details about my academic background and research can be found on my [Lattes Curriculum](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1572162T4&tokenCaptchar=0cAFcWeA4BTuZ3qMyR5NcXKs6-tjiyKML7krty3dVXpgcEXzJ4kSMj9wvu4tAyCVhUYlSmvi1_mEtW5p6_njkMr0gsTXlHYdqzU_V3ZYagoelgvKt06M5H6lX3RcxfFwHhr7K9pOMoHcp6bVGow8qtkX3PG8EilDLwWeRJpgx2Z8UQc1k1ZpBP63LoZxVG7sEql03k9UZNDvWHAuoYovSe5Vb_5DG82G15PgWfW0IqpOWns5r4rBtNaUtLmaY5gYF6-GmKKuvHpe6IO9JAxG0Ux70fX4dO4jbiYNRM-JJ1IMBT0tgwTpvxtjHwSBclp-r9o01xxgtal4KQHN88QdEzqiUgCMuA5FOSprdfe-jXHxhJG0_Sf0xcWdX6X0W2zdvtYC9Wt_gieoTeGBcDK7r0-uOPwsGBHsw2zpWZRBQqDToC_LP8tBPdy8XO7HSaR6AcHSMaR4ZHCvsYmlE0oYbeYlVuRTMUq44PcyxPh06ntJQgXJHE22Bc8Micx6vcDUr21NEk0OVGRfB8KHZL2l2ivf3ZzB2u_I4PWxyeH_vFx8c02gndDTAvFihDrVSjXRGJyg1vOvnyS2s2KxUXrdw4B8VhmFYN_97o4VF4jbADyoqJ_4joAY4skOEpfHgwdW7GU_Gi9yqRTAZNb3TmIQD54_-AcJTjct9gLm6sxAHtOeLOBQz3qEr8t4CEGMQ7v_MACkCRNq1B8leqgQ0WVo7PYWgjnHLg819rTWdunZhHQ2rnZDC_VrWzNjh6CsdY0RdeQc0jX9CePzOLVwAo2kGR69CSAxbaiUShKYAWnbADV_jyT6b8KtTMYFanbF23Je7rYU8uxhXD2TwYHrmLG7pkPuJvSQSeScjr864ADeo1Psu9xqih2Iq1wwQkWBCRj2SDkDs5TkNz4xdvUEJAQkQuztY1-kXxJAhVyQ).
+
+---
+
+
